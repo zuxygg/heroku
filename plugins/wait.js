@@ -1,4 +1,4 @@
-// https://github.com/Nobuyaki
+// https://github.com/BayuuOFC
 // Jangan Hapus link githubnya bang :)
 
 const fetch = require('node-fetch')
