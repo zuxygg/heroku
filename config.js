@@ -27,10 +27,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['6289525518325']// Put your number here
+global.owner = ['6289637006225']// Put your number here
 
-global.mods = ['6289525518325'] // Want some help?
-global.prems = ['6289525518325'] // Premium user has unlimited limit
+global.mods = ['6289637006225'] // Want some help?
+global.prems = ['6289637006225'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   //kalo mau dapetin apikeynya daftar link dibawah
@@ -57,8 +57,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'KAGUYA-BOT' // ganti aja
-var sticker_author = 'BAYU OFC' // ganti aja
+var sticker_name = 'X4R-BOT' // ganti aja
+var sticker_author = 'Zeex Store' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -87,21 +87,21 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (BayuuOFC)
-gc1 = 'https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o'
-gc2 = 'https://chat.whatsapp.com/CG8MUUI461d0OCaEwuSryE'
-gc3 = 'https://chat.whatsapp.com/ITCvKcfieJm0D9XAsTPJUU'
-namaig = 'https://instagram.com/bayuganz_665'
+gc1 = 'https://chat.whatsapp.com/IyRsvI7WMtFBTpYJrpZPqO'
+gc2 = 'https://chat.whatsapp.com/IyRsvI7WMtFBTpYJrpZPqO'
+gc3 = 'https://chat.whatsapp.com/IyRsvI7WMtFBTpYJrpZPqO'
+namaig = 'https://instagram.com/uzxyy_store04'
 linkf = gc1
-linkff = namaig
-namabot = 'KAGUYA-BOT'
-namagithub = 'https://github.com/BayuuOFC'
+linkff = uzxyy_store04
+namabot = 'X4R-BOT'
+namagithub = 'https://github.com/uzxygg'
 gcid = '6289525518325-1406453544'
 footer = '6289525518325'
 lolkey = 'apikeymu'
 global.wait = 'Tunggu Sebentar'
-bc = 'BAYU OFC'
-titler = 'KAGUYA-BOT'
+bc = 'Zeexs_store'
+titler = 'X4R-BOT'
 body = run
-kasihcaption = `©KAGUYA-BOT\n\n©BY BAYU OFC`
+kasihcaption = `©X4R-BOT\n\n©BY Zeexs store`
 gambar1 = tum1
 gambar2 = tum2
